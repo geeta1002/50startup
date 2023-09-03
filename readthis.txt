@@ -1,0 +1,18 @@
+Problem statement - 
+
+In the given dataset, R&D Spend, Administration Cost and Marketing Spend of 50 Companies
+are given along with the profit earned. The target is to prepare an ML model which can predict
+the profit value of a company if the value of its R&D Spend, Administration Cost and Marketing
+Spend are given.
+i) Construct Different Regression algorithms
+ii) Divide the data into train set and test set
+iii) Calculate different regression metrics
+iv) Choose the best model
+
+-----------------------------------------------
+
+The pandas - library,  is a popular data manipulation and analysis library in Python.
+A DataFrame - is a two-dimensional, tabular data structure. It is similar to a spreadsheet or a SQL table and is designed to store and organize data in rows and columns. DataFrames are a fundamental data structure for data analysis tasks and provide a convenient way to work with structured data.
+Schema -  A schema defines the structure of the data, including the tables, columns, and their data types. It specifies what types of data can be stored in each column (e.g., text, numbers, dates) and how columns relate to each other.
+
+
